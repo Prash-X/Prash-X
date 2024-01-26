@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Prashant Gidnavar 👋 </h1>
-<h3 align="center">🚀 Backend Developer | Java | SQL | DSA | React | 🚀</h3>
+<h3 align="center">🚀 Backend Developer | Java | SQL | DSA | Spring | React | 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
