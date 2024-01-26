@@ -4,8 +4,8 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-	💼 Current Role: Java Developer at Tata Consultancy Services
-📚 Learning : Design Patterns & System Design 
+<div>💼 Current Role: Java Developer at Tata Consultancy Services </div>
+<div> 📚 Learning : Design Patterns & System Design </div>
 🚀 Aspirations: Software Development Engineer (SDE) role
 </div> 
 </div>
