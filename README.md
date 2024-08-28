@@ -1,10 +1,10 @@
 <h1 align="center">Hey there! I'm Prashant Gidnavar 👋 </h1>
-<h3 align="center">🚀 Backend Developer | Java | SQL | DSA | Spring |Javascript| 🚀</h3>
+<h3 align="center">🚀 Backend Developer | Java | SQL | DSA | Spring | 🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h2> 👨🏻‍💻 About Me </h2>
- <div>💼 Current Role: Java Developer at Tata Consultancy Services </div>
+ <div>💼 Current Role: Associate Consultant at Infosys </div>
  <div> 📚 Learning : Design Patterns & System Design </div>
  🚀 Aspirations: Software Development Engineer (SDE) role
 </div> 
